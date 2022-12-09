@@ -1,6 +1,6 @@
 # What is this?
 A Digital business card made with **React** & pure css,html.
-
+![alt text](https://github.com/abolfazlchaman/React-Digital-Business-Card/blob/master/PreviewCapture.PNG)
 # How Can i use this?
 *npm i* to install all dependencies
 
