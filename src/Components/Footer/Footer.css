@@ -1,0 +1,17 @@
+.Footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  width: 100vw;
+  max-width: 300px;
+  min-height: 65px;
+  background: #d5d4d8;
+  border-radius: 0px 0px 10px 10px;
+  margin-top: 20px;
+
+}
+.icon {
+  width: 25px;
+  height: 25px;
+}

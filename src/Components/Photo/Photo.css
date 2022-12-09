@@ -1,0 +1,10 @@
+.photo {
+  align-items: center;
+  width: 100vw;
+  max-width: 300px;
+  max-height: 300px;
+  object-fit: cover;
+  background-position: top right;
+  background-repeat: no-repeat;
+  border-radius: 10px 10px 0px 0px;
+}
